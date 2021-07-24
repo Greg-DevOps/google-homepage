@@ -1,2 +1,2 @@
-google homepage project - attempting to clone the google homepage by using devtools
+google homepage project - attempting to clone the google homepage utilising devtools
 
